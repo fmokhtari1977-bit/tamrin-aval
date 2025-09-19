@@ -1,0 +1,61 @@
+HTML
+The language for building web pages
+__________________________________________________________________________________
+What is HTML?
+HTML stands for HyperText Markup Language.
+It is used to design web pages using the markup language.
+HTML is the combination of Hypertext and markup language.
+Hypertext defines the link between the web pages and markup language defines 
+the text document within the tag that define the structure of web pages.
+__________________________________________________________________________________
+
+
+HTML5 Video
+In this article, we will know HTML5 Video, along with knowing
+the different ways to add the videos to the HTML page & understanding its implementation through the examples.
+Before HTML5 came into existence, videos could only be played 
+in a browser using a plugin like flash.
+But after the release of HTML5, adding a video to a webpage is as easy as adding an image.
+the HTML5 "video" element specifies a standard way to embed a "video" on a web page.
+__________________________________________________________________________________
+
+HTML5 <audio> Tag
+since the release of HTML5, audio can be added to webpages using the "audio" tag.
+Previously, audios could be only played on web pages usingweb plugins like Flash.
+The "audio" tag is aninline element that is used to embed sound files into a web page.
+It is a useful tag if you want to add audio such as songs, interviews, etc. on your webpage.
+
+__________________________________________________________________________________
+
+HTML stands for Hyper Text Markup Language
+HTML is the standard markup language Web pages
+HTML describes the structure of a Web page
+HTML consists of a series of elements
+HTML elements tell the browser how to display the content
+HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link",etc
+
+__________________________________________________________________________________
+
+This is an example of some BOLD text.
+
+When you come over to my house, beware of the dog! Even though the word beware is displayed as bold,
+since it is marked using the <strong> element, the purpose is to mark it as important!
+
+Would you like to spend the weekend sailing and fishing on my boat Slice Of Life?
+
+My mom made a small mistake in leaving the door open and a sparrow flew in!
+
+I like to drink H2O every day to keep me hydrated. My birthday is the 29th of February 1995.
+
+While the bank robber was busy gathering the cash from the counter, my friend whispered in my ear,
+'Let's sneak out of here…'. We slowly moved towards the door and then made a dash for it!
+
+This text is highlighted with a marker, and this is not.
+
+The quick brown fox jumps right over the lazy lazy dog.
+_________________________________________________________________________________
+About Us
+
+Organization Name: Darsman
+Web Site: Darsman
+710-B, Advant Navis Business Park, Sector-142, Noida Uttar Pradesh_ 201305
